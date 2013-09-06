@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"os"
 
 	"github.com/daaku/go.ip"
-	"os"
 )
 
 func main() {
